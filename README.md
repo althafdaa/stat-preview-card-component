@@ -21,7 +21,7 @@ Mobile-view
 
 ### Links
 
-- Live Site URL: [https://zealous-ritchie-0fd843.netlify.app/
+- Live Site URL: [https://zealous-ritchie-0fd843.netlify.app/]
 
 ## My process
 
