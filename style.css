@@ -63,10 +63,15 @@ main .text-stat {
   /* padding: 0px 30px; */
 }
 
+main .text-stat h1 {
+  margin-bottom: 10px;
+}
+
 .stat-each span {
-  font-size: 0.7em;
+  font-size: 0.9em;
   margin: 10px auto;
   color: hsla(0, 0%, 100%, 0.6);
+  letter-spacing: 2px;
 }
 
 main .hero {
@@ -89,7 +94,7 @@ main .overlay {
 
 /* RESPONSIVE */
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 1024px) {
   main {
     flex-direction: column;
   }
@@ -112,5 +117,9 @@ main .overlay {
 
   main .stat-each {
     margin: 20px;
+  }
+
+  main .container-text p {
+    font-size: 1em;
   }
 }
