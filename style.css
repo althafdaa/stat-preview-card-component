@@ -96,6 +96,7 @@ main .overlay {
 
 @media screen and (max-width: 1024px) {
   main {
+    width: 90%;
     flex-direction: column;
   }
 
